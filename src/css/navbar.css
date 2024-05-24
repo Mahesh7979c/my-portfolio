@@ -1,0 +1,21 @@
+.navbar,
+.sidebar {
+  background-size: cover;
+}
+.logo-text {
+  font-family: 'Poppins', cursive;
+  color: var(--white-primary);
+  font-weight: 900;
+  font-size: 25px;
+  letter-spacing: 0.5px;
+}
+.logo-sides {
+  font-size: 20px;
+  font-weight: 600;
+  color: var(--white-primary);
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+}
